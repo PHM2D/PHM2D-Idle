@@ -37,3 +37,9 @@ Search this up: *(300 -1 0)* and then change 300 to any number of *seconds unit*
 - Combined both *"Basic"* and *"Lite"* into one file.
 - Idle up to *30 games*.
 - Fixed some bugs.
+
+## Version 1.2:
+- Idle up to *500 games*.
+- Lighter code and faster interface.
+
+**"[Check out my "Steam Utility" batch files!](https://github.com/PHM2D/Steam-Utility)"**
