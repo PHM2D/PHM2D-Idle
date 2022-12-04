@@ -8,7 +8,7 @@ The batch file somehow simulates the *"Fast Mode"* from Idle Master Extended in 
 
 ***The idea*** is to not insert your steam account information inside Idle Master Extended and use it directly just by inserting game's ids.
 
-## HOW TO USE:
+## How to Use:
 Download **"[Idle Master Extended](https://github.com/JonasNilson/idle_master_extended)"**.
 
 Sign in to your **"Steam"** account.
@@ -27,8 +27,13 @@ Insert the codes and press enter after each one.
 
 The idling would start and continue until you close the CMD.
 
-## HOW TO Change Idle Time:
+## How to Change Idle Time:
 
 Right click on the batch file and select **"Edit"**.
 
 Search this up: *(300 -1 0)* and then change 300 to any number of *seconds unit* that you desire (e.g., 300 seconds = 5 minutes).
+
+## Version 1.1:
+- Combined both *"Basic"* and *"Lite"* into one file.
+- Idle up to *30 games*.
+- Fixed some bugs.
