@@ -33,13 +33,18 @@ Right click on the batch file and select **"Edit"**.
 
 Search this up: *(300 -1 0)* and then change 300 to any number of *seconds unit* that you desire (e.g., 300 seconds = 5 minutes).
 
-## Version 1.1:
-- Combined both *"Basic"* and *"Lite"* into one file.
-- Idle up to *30 games*.
+## Version 1.3:
+- Idle up to *32 games*.
 - Fixed some bugs.
+- Inputs from **"Manual"** are saved in **"ID.txt"**.
+- Choose between *"Basic", "Fast" & "Full"* variations:
 
-## Version 1.2:
-- Idle up to *500 games*.
-- Lighter code and faster interface.
+*Basic: Idles ***32 games*** simultaneously for ***5 minutes***, then repeats the process after ***7 seconds*** of time-out.*
+
+*Fast: Idles ***5 games*** simultaneously in a group for ***5 minutes***, then proceeds to another group after ***7 seconds*** of time-out and checking each game individually for ***10 seconds***.*
+
+*Full: Fast version with the addition of idling ***32 games*** simultaneously for ***3 hours*** in the beginning.*
+
+Note: ***Auto*** files can only function with **"ID.txt"**. You can create it *manually* or by using **"Manual"** version. Each line can contain ***1 code***, up to ***32 lines***.
 
 **"[Check out my "Steam Utility" batch files!](https://github.com/PHM2D/Steam-Utility)"**
